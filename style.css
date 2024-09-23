@@ -3,7 +3,8 @@ body{
 }
 
 h1{
-    font-weight: bold;
     text-align: center;
-    color: white;
+    color: brown;
+    font-weight: bold;
+    text-decoration: none;
 }
